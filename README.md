@@ -70,7 +70,8 @@ The project includes visualizations that highlight:
 - revenue comparison
 - Customer segment performance
 
-📎 Screenshots of dashboards and charts are included in the repository.
+<img width="763" height="428" alt="image" src="https://github.com/user-attachments/assets/391d8ae6-b620-4ab8-ba24-6c9d2154190b" />
+
 
 ---
 
