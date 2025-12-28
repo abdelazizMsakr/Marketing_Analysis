@@ -24,6 +24,7 @@ The analysis aims to support data-driven marketing decisions through clear insig
   - Customer demographics
   - Store purchasing, Website purchasing, Website visits
   - revenue 
+<img width="305" height="308" alt="image" src="https://github.com/user-attachments/assets/c01446a6-fd95-4fd1-bb91-857bea7ed105" />
 
 > Data was cleaned and preprocessed before analysis (handling missing values, duplicates, and data types).
 
