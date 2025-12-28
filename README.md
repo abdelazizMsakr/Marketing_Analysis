@@ -48,6 +48,7 @@ The analysis aims to support data-driven marketing decisions through clear insig
 
 ## 📊 Key KPIs
 - Total Revenue
+- Web Conversion Rate %
 - Average Recency
 - Average Store & Web purchase
 
